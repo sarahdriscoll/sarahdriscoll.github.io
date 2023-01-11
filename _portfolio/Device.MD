@@ -2,8 +2,8 @@
 title: "Devices for Retina Studies"
 excerpt: "Devices made from scratch to conduct retina electrophysiology studies"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Graphene Electrode.png
+  teaser: /assets/img/Graphene Electrode.png
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
