@@ -18,9 +18,9 @@ feature_row:
     alt: "Graphene Electrode"
     title: "Fabricating Devices for Retina Study"
     excerpt: "Making graphene elctrode devices for retina elecrtophysiology studies."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Graphene.png
+    title: "Graphene"
+    excerpt: "Making and perfecting a recipe for graphene"
 ---
 
 {% include feature_row %}
