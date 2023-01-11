@@ -26,4 +26,4 @@ Sarah has had lots of exposure to nanoscience procedures in her laboratories. So
 
 Sarah was recognized as a feature member of the Technical Staff on the [Vanderbilt Institute of Nanoscale Science and Engineering](https://https://www.vanderbilt.edu/vinse/personnel/bio/sarah+driscoll) website.
 
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+![Image of Sarah Driscoll](/assets/img/VINSE_headshot1.jpg)
