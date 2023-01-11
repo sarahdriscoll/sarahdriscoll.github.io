@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "All About Sarah Driscoll"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Sarah Driscoll is a chemical engineering and climate studies undergraduate student who is deeply invested in her schoolwork and passionate about engaging in research to improve the community around her."
 feature_row:
   - image_path: assets/img/IMG-1837.jpg
     alt: "CVD System"
