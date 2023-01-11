@@ -5,15 +5,15 @@ header:
   image: /assets/img/IMG-1837.jpg
   teaser: /assets/img/IMG-1837.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/IMG-1841.jpg
+    image_path: assets/img/IMG-1841.jpg
+    alt: "Diffusion"
+  - url: /assets/img/IMG-1839.jpg
+    image_path: assets/img/IMG-1839.jpg
+    alt: "Gas Cabinent"
+  - url: /assets/img/IMG-1840.jpg
+    image_path: assets/img/IMG-1840.jpg
+    alt: "Mass Flow Controller"
 ---
 
 With a goal to make perfectly defined structures at the thickness of a single atom, this research project focuses on the synthesis of conjugated nanostructures 
