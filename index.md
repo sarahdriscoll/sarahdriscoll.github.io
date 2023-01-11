@@ -14,10 +14,10 @@ feature_row:
     alt: "CVD System"
     title: "CVD System"
     excerpt: "Built for studying the effect of catalyst crystalinity on conjugated nanostructures."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+  - image_path: assets/img/Graphene Electrode.png
+    alt: "Graphene Electrode"
+    title: "Fabricating Devices for Retina Study"
+    excerpt: "Making graphene elctrode devices for retina elecrtophysiology studies."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
