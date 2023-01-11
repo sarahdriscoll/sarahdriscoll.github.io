@@ -20,3 +20,4 @@ With a goal to make perfectly defined structures at the thickness of a single at
 and seeks to understand the effect of catalyst crystallinity on the resulting nanostructure. Currently, this project is in the beginning stages and we have only 
 started putting together parts for the required CVD system. As part of this team, I’ve enjoyed learning about the machinery that goes into chemical research. 
 It’s been interesting to design the reactor and to fully understand how each piece in the completed tool contributes to the successful growth of the nanostructure.
+{% include gallery caption="This is a sample gallery to showcase this ongoing project." %}
