@@ -5,15 +5,15 @@ header:
   image: /assets/img/Graphene Electrode.png
   teaser: /assets/img/Graphene Electrode.png
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/SPR pattern.jpg
+    image_path: assets/img/SPR pattern.jpg
+    alt: "SPR"
+  - url: /assets/img/image.png
+    image_path: assets/img/image.png
+    alt: "Retina In-Vitro Study"
+  - url: /assets/img/finished D4.jpg
+    image_path: assets/img/finished D4.jpg
+    alt: "Finished Device under Microscope"
 ---
 
 Over the summer of 2022, I had the privledge of working with a lab group in the Vanderbilt Institute of Nanoscale Science and Engineering that studies the retina. I was able to work with graduate stuents to learn how to use photolithography, gold deposition, graphene, and other procedures to make a device used for their studies.
