@@ -6,9 +6,9 @@ header:
   teaser: /assets/img/Graphene.png
 gallery:
   - image_path: assets/img/IMG-1179.jpg
-  
+  - image_path: assets/img/TechCrewPoster.png
 ---
 
 When I started at the cleanroom, the chemical vapor deposition furnace in the clean room was leaking, and it was my job to figure out how to restore functionality to the furnace and to make sure it was well-sealed. After conducting gas flow and leak testing, I was able to solve a furnace leak problem so the lab could maintain the low pressure necessary to grow high-quality graphene. Since then, I have been tweaking the recipe to minimize defects.
 
-{% include gallery caption="Photo of the Chemical Vapor Deposition Furnace in the Cleanroom" %}
+{% include gallery caption="Photo of the Chemical Vapor Deposition Furnace in the Cleanroom, Poster to Showcase Summer Findings" %}
