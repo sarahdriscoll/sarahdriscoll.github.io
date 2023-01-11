@@ -1,31 +1,29 @@
 ---
 
-title: "About David Florian"
+title: "About Sarah Driscoll"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Sarah is currently completing here undergraduate degrees at Vanderbilt University. She is pursuing both a technical and nontechnical degree which makes her education well-rounded. She has also worked in two nanoscience research laboratorys on campus.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Chemical Engineering
+  * BA Climate Studies
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Sarah has had lots of exposure to nanoscience procedures in her laboratories. Some of the tools and processes that she is proficient in are:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Chemical Vapor Deposition (CVD)
+* Photolithography 
+* Metal Deposition
+* Microfluidics
+* MATLAB
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Sarah was recognized as a feature member of the Technical Staff on the [Vanderbilt Institute of Nanoscale Science and Engineering](https://https://www.vanderbilt.edu/vinse/personnel/bio/sarah+driscoll) website.
 
 ![David Florian](/assets/img/David_Headshot_web2.jpg)
