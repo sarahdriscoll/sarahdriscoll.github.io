@@ -10,17 +10,15 @@ header:
       url: "/portfolio/"
 excerpt: "Sarah Driscoll is a chemical engineering and climate studies undergraduate student who is deeply invested in her schoolwork and passionate about engaging in research to improve the community around her."
 feature_row:
-  - image_path: assets/img/IMG-1837.jpg
-    alt: "CVD System"
-    title: "CVD System"
-    excerpt: "Built for studying the effect of catalyst crystalinity on conjugated nanostructures."
+  - image_path: assets/img/Vanderbilt1.jpg
+    title: "Dedicated Student"
+    excerpt: "Sarah is deeply commited to her studys at Vanderbilt University, always putting her learning first."
+  - image_path: assets/img/image_6483441.JPG
+    title: "Curious Researcher"
+    excerpt: "Sarah is facinated by the power of research and is involved in multiple labs on campus."
   - image_path: assets/img/Graphene Electrode.png
-    alt: "Graphene Electrode"
-    title: "Fabricating Devices for Retina Study"
-    excerpt: "Making graphene elctrode devices for retina elecrtophysiology studies."
-  - image_path: assets/img/Graphene.png
-    title: "Graphene"
-    excerpt: "Making and perfecting a recipe for graphene"
+    title: "Nanoscience Enthusiast"
+    excerpt: "So far Sarah's Career has focused heavily on nanoscience though she is looking to broaden her horizons!"
 ---
 
 {% include feature_row %}
