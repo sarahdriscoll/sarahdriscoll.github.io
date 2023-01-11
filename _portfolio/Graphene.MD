@@ -2,8 +2,8 @@
 title: "Graphene Growth"
 excerpt: "Fix cleanroom CVD furnace and perfect recipe"
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/Graphene.png
+  teaser: /assets/img/Graphene.png
 gallery:
   - image_path: assets/img/Slide-3.png
   - image_path: assets/img/Slide-2.png
