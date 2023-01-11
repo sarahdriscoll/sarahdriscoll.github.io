@@ -16,5 +16,6 @@ gallery:
     alt: "Finished Device under Microscope"
 ---
 
-Over the summer of 2022, I had the privledge of working with a lab group in the Vanderbilt Institute of Nanoscale Science and Engineering that studies the retina. I was able to work with graduate stuents to learn how to use photolithography, gold deposition, graphene, and other procedures to make a device used for their studies.
+Over the summer of 2022, I had the privledge of working with a lab group in the Vanderbilt Institute of Nanoscale Science and Engineering that studies the retina. We fabricated the device entirely in the cleanroom. To make the device, you first do photolithography on a silicon wafer to make the device pattern, then use gold deposition to construct the electrodes, add graphene for high spaciotemporal resolution, followed by other procedures to make the final device. Then, the device was used to understand fundamentals of the retina through in-vitro studies.
+This project exposed me to lots of procedues frequently employed in the cleanroom. It was a great first introduction to the world of nanoscience!
 {% include gallery caption="This is a sample gallery to showcase the device." %}
