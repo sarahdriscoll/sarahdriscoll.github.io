@@ -1,0 +1,22 @@
+---
+title: "Conjugated Nanostructures"
+excerpt: "Building CVD system to study conjugated nanostructures"
+header:
+  image: /assets/img/Cyber-Scooter-Banner.jpg
+  teaser: /assets/img/Cyber-Scooter-TH.jpg
+gallery:
+  - url: /assets/img/Cyber-Scooter-1.jpg
+    image_path: assets/img/Cyber-Scooter-1.jpg
+    alt: "placeholder image 1"
+  - url: /assets/img/Cyber-Scooter-2.jpg
+    image_path: assets/img/Cyber-Scooter-2.jpg
+    alt: "placeholder image 2"
+  - url: /assets/img/Cyber-Scooter-3.jpg
+    image_path: assets/img/Cyber-Scooter-3.jpg
+    alt: "placeholder image 3"
+---
+
+With a goal to make perfectly defined structures at the thickness of a single atom, this research project focuses on the synthesis of conjugated nanostructures 
+and seeks to understand the effect of catalyst crystallinity on the resulting nanostructure. Currently, this project is in the beginning stages and we have only 
+started putting together parts for the required CVD system. As part of this team, I’ve enjoyed learning about the machinery that goes into chemical research. 
+It’s been interesting to design the reactor and to fully understand how each piece in the completed tool contributes to the successful growth of the nanostructure.
