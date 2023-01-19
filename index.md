@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Sarah Driscoll is a chemical engineering and climate studies undergraduate student who has a growth mindset to be the best she can be. She is passionate about engaging in research to improve the community around her and dedicated to learning to be a knowledgeable engineer."
+excerpt: "Sarah Driscoll is an undergraduate student studying chemical engineering and climate studies at Vanderbilt University. She is passionate about engaging in research to improve the community around her and is dedicated to her learning to be a knowledgeable engineer. Sarah is able and excited to learn about chemical engineering research as she pursues graduate school dreams!"
 feature_row:
   - image_path: assets/img/Vanderbilt1.jpg
     title: "Dedicated Student"
