@@ -2,11 +2,11 @@
 title: "X-ray Abosroption Spectroscopy"
 excerpt: "Calibrating Standards for Fluorescent XAS Measurements"
 header:
-  image: /assets/img/Graphene.png
-  teaser: /assets/img/Graphene.png
+  image: /assets/img/SSRL.jpg
+  teaser: /assets/img/IMG-2288.jpeg
 gallery:
-  - image_path: assets/img/IMG-1179.jpg
-  - image_path: assets/img/TechCrewPoster.png
+  - image_path: assets/img/IMG-3127.jpg
+  - image_path: assets/img/IMG-3138.jpg
 ---
 
 In the summer of 2023, I worked as a Science Undergraduate Laboratory Internship (SULI) intern at SLAC National Accelerator Laboratory. There, I worked under the direction of Dr. Adam Hoffman at the Stanford Syncrotron Radiation Lightsource.
@@ -14,4 +14,4 @@ My project for the summer was to synthesize standards to aid in the setup of flu
 This is important because it used to take 30 minutes to an hour to set up fluorescence detectors, and did this by using bulk materials or user samples that either fluoresce too much or too little -- making set up extremely difficult. 
 So, I made materials or standards with known absorption characteristics and showed that they improve detector setup times.
 
-{% include gallery caption="Photo of the Chemical Vapor Deposition Furnace in the Cleanroom, Poster to Showcase Summer Findings" %}
+{% include gallery caption="Images of the synthesis of metallic standards" %}
