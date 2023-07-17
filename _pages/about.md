@@ -6,7 +6,7 @@ title: "About Sarah Driscoll"
 
 ## Education
 
-Sarah is currently completing her undergraduate degrees at Vanderbilt University. She is pursuing both a technical and nontechnical degree which makes her education well-rounded. Sarah is hoping to pursue a Ph.D. in the future.
+Sarah is currently completing her undergraduate degree at Vanderbilt University. She is pursuing both a technical and nontechnical degree which makes her education well-rounded. Sarah is hoping to pursue a Ph.D. in the future.
 
 * Vanderbilt University
   * BE Chemical Engineering
