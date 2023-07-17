@@ -16,7 +16,7 @@ Sarah is currently completing her undergraduate degree at Vanderbilt University.
 
 Sarah has worked in two nanoscience laboratories on campus. She works with the Vanderbilt Institute of Nanoscale Science and Engineering as technical staff in the cleanroom. Sarah helps with tasks critical to the daily operation of the cleanroom as well as tweaks the recipe used to grow graphene with the goal of minimizing defects. She also helps in a lab in Vanderbilt's Department of Chemical Engineering with the [Kidambi Research Group](https://pirankidambi.wixsite.com/kidambiresearchgroup). There, she is working to understand the effect of catalyst crystallinity on resulting conjugated nanostructures and their applications.
 
-Most recently, in the summer of 2023, she was a SULI intern at SLAC National Accelerator Laboratory as a part of the [Co-ACCESS group] (https://web.slac.stanford.edu/coaccess). Sarah spent her summer making calibration standards for fluorescence detectors at XAS beamlines. 
+Most recently, in the summer of 2023, she was a SULI intern at SLAC National Accelerator Laboratory as a part of the [Co-ACCESS group](https://web.slac.stanford.edu/coaccess). Sarah spent her summer making calibration standards for fluorescence detectors at XAS beamlines. 
 
 As a curious mind and in line with graduate school dreams, Sarah is always looking for new avenues to pique her research interests!
 
