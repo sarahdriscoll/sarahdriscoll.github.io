@@ -1,0 +1,23 @@
+---
+title: "Proton Exchange Membranes"
+excerpt: "Using 2D materials on isoporous supports to fabricate proton selective membranes "
+header:
+  image: /assets/img/IMG-2288.jpeg
+  teaser: /assets/img/SSRL.jpg
+gallery:
+  - image_path: assets/img/IMG-3127.jpg
+  - image_path: assets/img/IMG-3138.jpg
+---
+
+Proton exchange membranes are critical to renewable energy generation technologies such as hydrogen fuel cells.
+Hydrogen fuel cells initiate an electrochemical reaction where the hydrogen atom is broken and a proton results; energy is created when a proton passes through the membrane to make a current.
+Thus, it is ideal to have high selectivity and low reactant crossover. This project aims to interface graphene with supports that allow graphene to reduce reactant crossover (H2 and O2 in a H2 fuel cell) while maintaining
+high proton conductance. Here we look at using isoporous PCTE infilled with Nafion as a new support for highly selective proton exchange membranes.
+
+The first challenge in this project was to infill PCTE pores with nafion to maximize selectivity. I spent the Spring 2023 semester investigating new methods and found that the best method was to attach
+PCTE to an eppendorf tube and fill it with a 2.5 wt% nafion solution, then put it in a vacuum chamber to force it through the membrane.
+
+The next step is to add graphene to decrease unwanted hydrogen crossover.
+
+
+{% include gallery caption="Images of the synthesis of metallic standards" %}
