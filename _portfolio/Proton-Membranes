@@ -18,7 +18,7 @@ high proton conductance. Here we look at using isoporous PCTE infilled with Nafi
 The first challenge in this project was to infill PCTE pores with nafion to maximize selectivity. I spent the Spring 2023 semester investigating new methods and found that the best method was to attach
 PCTE to an eppendorf tube and fill it with a 2.5 wt% nafion solution, then put it in a vacuum chamber to force it through the membrane.
 
-The next step is to add graphene to decrease unwanted hydrogen crossover. Check back next semester to see what was done!
+The next step was to add graphene to decrease unwanted hydrogen crossover. My colleague, Nicole Moering, finsihed up the project for her defense and I'm excited to announce that a paper is underway!
 
 
 {% include gallery caption="Successful configuration of nafion infilling, PCTE with graphene, Poster presenting semester's findings" %}
