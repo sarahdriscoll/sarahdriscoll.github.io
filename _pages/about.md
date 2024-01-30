@@ -31,6 +31,7 @@ Sarah has had lots of exposure to nanoscience procedures in her laboratories. So
 * MATLAB
 
 ## Press 
+Sarah won the IGNITE Off! Interlab competition in September 2023 for persenting her SULI summer project. The [Vanderbilt School of Engineering](https://engineering.vanderbilt.edu/news/2023/engineering-undergraduate-places-second-in-doe-competition-for-national-lab-summer-interns/) published an article that was republished by the Department of Energy Office of Science. 
 
 Sarah was recognized as a feature member of the cleanroom Technical Staff on the [Vanderbilt Institute of Nanoscale Science and Engineering](https://www.vanderbilt.edu/vinse/personnel/bio/sarah+driscoll) website.
 
