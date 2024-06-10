@@ -12,6 +12,6 @@ gallery:
 In the summer of 2023, I worked as a Science Undergraduate Laboratory Internship (SULI) intern at SLAC National Accelerator Laboratory. There, I worked under the direction of Dr. Adam Hoffman at the Stanford Syncrotron Radiation Lightsource.
 My project for the summer was to synthesize standards to aid in the setup of fluorescence detectors at XAS beamlines. 
 This is important because it used to take 30 minutes to an hour to set up fluorescence detectors, and did this by using bulk materials or user samples that either fluoresce too much or too little -- making set up extremely difficult. 
-So, I made materials or standards with known absorption characteristics and showed that they improve detector setup times.
+So, I made materials or standards with known absorption characteristics and showed that they improve detector setup times. I'm proud to say that my standards are now being used to calibrate the detector!
 
 {% include gallery caption="Images of the synthesis of metallic standards" %}
